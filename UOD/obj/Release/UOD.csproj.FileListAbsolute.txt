@@ -1,0 +1,11 @@
+C:\Users\Alex\source\repos\UOD\UOD\bin\Release\UOD.exe.config
+C:\Users\Alex\source\repos\UOD\UOD\bin\Release\UOD.exe
+C:\Users\Alex\source\repos\UOD\UOD\bin\Release\UOD.pdb
+C:\Users\Alex\source\repos\UOD\UOD\obj\Release\UOD.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\UOD\UOD\obj\Release\UOD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\source\repos\UOD\UOD\obj\Release\UOD.Form1.resources
+C:\Users\Alex\source\repos\UOD\UOD\obj\Release\UOD.Properties.Resources.resources
+C:\Users\Alex\source\repos\UOD\UOD\obj\Release\UOD.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\UOD\UOD\obj\Release\UOD.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\UOD\UOD\obj\Release\UOD.exe
+C:\Users\Alex\source\repos\UOD\UOD\obj\Release\UOD.pdb
