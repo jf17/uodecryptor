@@ -1,4 +1,4 @@
-# Ultima Online Decryptor
+# Ultima Online client decryptor
 
 Client decryptor for ServUO 
 
